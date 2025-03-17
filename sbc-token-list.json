@@ -1,0 +1,151 @@
+{
+    "name": "Stable Coin (SBC) Token List",
+    "timestamp": "2025-03-17T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 137,
+            "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 42220,
+            "address": "0xDE093684c796204224BC081f937aa059D903c52a",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 10,
+            "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 8453,
+            "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 61,
+            "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 101,
+            "address": "DBAzBUXaLj1qANCseUPZz4sp9F8d2sc78C4vKjhbTGMA",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 9,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "description": "Stellar-Pubnet",
+            "address": "SBC-GCQCNWT22JDLENQAVIE6DRJGHWAQ6EX2H5ABGPV55EJUPPZM5UA7KHZR",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 18,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        }
+    ]
+}
