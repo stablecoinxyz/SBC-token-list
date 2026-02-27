@@ -21,6 +21,7 @@ The official token list for [Stable Coin (SBC)](https://stablecoin.xyz), maintai
 | Avalanche        | 43114    | `0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16` | 18       |
 | Ethereum Classic | 61       | `0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798` | 18       |
 | Solana           | 101      | `DBAzBUXaLj1qANCseUPZz4sp9F8d2sc78C4vKjhbTGMA` | 9     |
+| Radius           | 723      | `0x33ad9e4BD16B69B5BFdED37D8B5D9fF9aba014Fb`  | 6        |
 | Stellar          | —        | `SBC-GCQCNWT22JDLENQAVIE6DRJGHWAQ6EX2H5ABGPV55EJUPPZM5UA7KHZR` | 18 |
 
 ## Usage

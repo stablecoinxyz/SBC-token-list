@@ -1,9 +1,9 @@
 {
     "name": "Stable Coin (SBC) Token List",
-    "timestamp": "2025-03-17T00:00:00.000Z",
+    "timestamp": "2026-02-27T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -125,6 +125,20 @@
             "name": "Stable Coin",
             "symbol": "SBC",
             "decimals": 9,
+            "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
+            "extensions": {
+                "website": "https://stablecoin.xyz"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 723,
+            "address": "0x33ad9e4BD16B69B5BFdED37D8B5D9fF9aba014Fb",
+            "name": "Stable Coin",
+            "symbol": "SBC",
+            "decimals": 6,
             "logoURI": "ipfs://Qmei6RQgkLNjS2FsTgryBZ41Z9dqMrRV4WMtEgffgjwiRs",
             "extensions": {
                 "website": "https://stablecoin.xyz"
